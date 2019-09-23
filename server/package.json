@@ -3,8 +3,12 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
   "license": "ISC",
+
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  
   "dependencies": {
     "express": "^4.17.1"
   },
