@@ -4,11 +4,9 @@
   "description": "",
   "main": "index.js",
   "license": "ISC",
-
   "scripts": {
     "start": "nodemon index.js"
   },
-  
   "dependencies": {
     "express": "^4.17.1"
   },
